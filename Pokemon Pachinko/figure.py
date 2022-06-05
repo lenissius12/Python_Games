@@ -10,3 +10,4 @@ class figure:
         self.posX = posX
         self.posY = posY
         self.image = ImageTk.PhotoImage(image)
+    
